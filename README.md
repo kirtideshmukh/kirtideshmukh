@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile visits](https://rushter.com/counter.svg)
+![Profile visits](https://komarev.com/ghpvc/?username=kirtideshmukh)
 <!--
 **kirtideshmukh/kirtideshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
