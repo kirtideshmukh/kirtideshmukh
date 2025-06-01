@@ -2,7 +2,7 @@
 
 Empathy-led software consultant crafting thoughtful, user-first products
 ------------------------------------------------------------------------
-Kirti is a software engineer with ~6 years of experience, passionate about writing maintainable and testable code through Extreme Programming (XP) practices. She excels in meticulous planning, ensuring alignment within her team, and proactively providing solutions and support. Kirti is actively involved in all phases of the software development lifecycle, including requirement gathering, stakeholder communication, planning, story creation, development, and testing. Kirti often shares her thoughts on tech over on [Twitter](https://x.com/_kirtideshmukh).
+Kirti is a software engineer with ~6 years of experience, passionate about writing maintainable and testable code through Extreme Programming (XP) practices. She excels in meticulous planning, ensuring alignment within her team, and proactively providing solutions and support. Kirti is actively involved in all phases of the software development lifecycle, including requirement gathering, stakeholder communication, planning, story creation, development, and testing. She often shares her thoughts on tech over on [Twitter](https://x.com/_kirtideshmukh).
 
 - 🔭 I’m currently working on Java, SpringBoot, PostgreSQL, Kafka
 - 🌱 I’m currently learning Kotlin, GCP
